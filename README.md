@@ -73,7 +73,7 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noureldin2303&theme=dark&background=454140)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noureldin2303&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noureldin2303&theme=dark&background=454140)](https://github.com/anuraghazra/github-readme-stats)
 
