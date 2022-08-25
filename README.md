@@ -70,6 +70,16 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 [<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />](https://discord.gg/ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ)
 &nbsp;
 
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Noureldin2303
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noureldin2303&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noureldin2303)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noureldin2303&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
