@@ -1,3 +1,5 @@
+<!-- BLOG-POST-LIST:START -->
+
 # Bonjour ! 
 
 My name is Noureldin Farag. I am a full-stack developer  👨‍💻
@@ -18,7 +20,7 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/python-3670A0?logo=python" alt="python" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white" alt="python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -74,3 +76,4 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
+<!-- BLOG-POST-LIST:END -->
