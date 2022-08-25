@@ -24,9 +24,9 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash" alt="shell script" title="Shell Script" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/mysql-%230175C2.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda" alt="anaconda" title="Anaconda" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white" alt="anaconda" title="Anaconda" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart" alt="dart" title="Dart" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -67,8 +67,7 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/noureldin-farag-112653217)
 &nbsp;
-[<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" title="Discord" height="25" />]
-(htttps://discord.gg/ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ)
+[<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />](https://discord.gg/ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ)
 &nbsp;
 
 [tech_tools_anchor]: #bonjour--
