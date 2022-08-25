@@ -20,7 +20,7 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/python-3670A0?logo=python" alt="python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash" alt="shell script" title="Shell Script" height="25" />][tech_tools_anchor]
 &nbsp;
