@@ -16,11 +16,24 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/python-3670A0?logo=python" alt="python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-
+[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash" alt="shell script" title="Shell Script" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda" alt="anaconda" title="Anaconda" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart" alt="dart" title="Dart" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/julia-282C34?logo=julia" alt="julia" title="Julia" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/go-282C34?logo=go" alt="go" title="GO" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
@@ -37,11 +50,12 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
+
 
 ## 👾  What I am interested in learning at some point
 
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
@@ -52,6 +66,10 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/noureldin-farag-112653217)
+&nbsp;
+[<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" title="Discord" height="25" />]
+(htttps://discord.gg/ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ)
+&nbsp;
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
