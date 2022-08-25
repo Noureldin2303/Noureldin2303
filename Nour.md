@@ -74,7 +74,3 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-<!---
-Noureldin2303/Noureldin2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
