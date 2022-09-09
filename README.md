@@ -16,11 +16,15 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/swift-black?logo=swift" alt="Swift logo" title="Swift" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/IOS-black?logo=apple" alt="IOS logo" title="IOS" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white" alt="python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/C++-282C34?style=for-the-badge&logo=cplusplus&logoColor=red" alt="c++" title="C++" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C++-282C34?style=for-the-badge&logo=cplusplus&logoColor=red" alt="C++" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -34,7 +38,8 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/julia-282C34?logo=julia" alt="julia" title="Julia" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/go-282C34?logo=go" alt="go" title="GO" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/G
+O-282C34?logo=go" alt="go" title="GO" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
