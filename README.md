@@ -38,8 +38,7 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/julia-282C34?logo=julia" alt="julia" title="Julia" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/G
-O-282C34?logo=go" alt="go" title="GO" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/go-282C34?logo=go" alt="go" title="GO" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
