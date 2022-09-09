@@ -30,6 +30,10 @@ My name is Noureldin Farag. I am a full-stack developer  👨‍💻
 &nbsp;
 [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash" alt="shell script" title="Shell Script" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/php-282C34?logo=php" alt="PHP" title="PHP" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/laravel-282C34?logo=laravel" alt="Laravel" title="Laravel" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/mysql-%230175C2.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white" alt="anaconda" title="Anaconda" height="25" />][tech_tools_anchor]
