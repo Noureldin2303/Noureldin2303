@@ -34,7 +34,7 @@ My name is Noureldin Farag. I am a full-stack developer & mobile applications ðŸ
 &nbsp;
 [<img src="https://img.shields.io/badge/laravel-282C34?logo=laravel" alt="Laravel" title="Laravel" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/mysql-282C34?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" title="mysql" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white" alt="anaconda" title="Anaconda" height="25" />][tech_tools_anchor]
 &nbsp;
