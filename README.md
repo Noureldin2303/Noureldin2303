@@ -13,6 +13,9 @@
   <a href="https://twitter.com/noureldin_farag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/noureldin-farag-112653217/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:noureldinfarag4@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ#2022?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/discord-8746FF.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 </p>
 <br>
@@ -38,7 +41,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white" alt="python" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/python-3680C5?logo=python&logoColor=white" alt="python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C++-282C34?style=for-the-badge&logo=cplusplus&logoColor=red" alt="C++" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
