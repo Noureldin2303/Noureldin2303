@@ -25,7 +25,7 @@
 
 <a name="learning-now"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,julia,go,haskell,git,bash,vim,dart,flutter,swift,kotlin,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,julia,go,haskell,git,bash,vim,linux,dart,flutter,swift,kotlin,php,laravel,mysql)](https://skillicons.dev)
 
 <br>
 <a name="learning-next"></a>
@@ -37,7 +37,7 @@
 
 ## 👾  What I am interested in learning at some point
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,graphql,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,graphql,sass,tailwind,gradle,docker)](https://skillicons.dev)
 
 
 
