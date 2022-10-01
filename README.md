@@ -100,7 +100,7 @@
 
 ![Noureldin Farag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noureldin2303&show_icons=true&locale=en&theme=github_dark&hide_border=true)
 
-
+ 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
