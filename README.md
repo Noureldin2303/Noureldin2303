@@ -1,4 +1,8 @@
-<h1 align='center'> Hi there 👋, I'm Noureldin Farag 👨‍💻 </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi++There!+👋;I'm+Noureldin+Farag+👨‍💻;+I'm+a+full-stack+developer;Nice+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
 
 <p align='center'>
   I am a full-stack developer & mobile applications
