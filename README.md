@@ -34,14 +34,13 @@
 <br>
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,expressjs)](https://skillicons.dev)
+## 📖  What I am currently learning / improving
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,expressjs,firebase)](https://skillicons.dev)
 
 
 ## 👾  What I am interested in learning at some point
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,graphql,sass,tailwind,gradle,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,graphql,sass,tailwind,gradle,docker)](https://skillicons.dev)
 
 
 
