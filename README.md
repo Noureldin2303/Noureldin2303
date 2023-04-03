@@ -5,13 +5,11 @@
 </h1>
 
 <p align='center'>
-  I am a full-stack developer & mobile applications
-</p>
-
-<p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Noureldin2303.Noureldin2303??style=for-the-badge&logo=appveyor"></a>
 </p>
-
+<p align='center'>
+<img src="https://octodex.github.com/images/skatetocat.png" width="250px"/>
+</p>
 
 <p align='center'>
   <a href="https://twitter.com/noureldin_farag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
