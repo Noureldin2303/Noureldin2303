@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Noureldin2303.Noureldin2303??style=for-the-badge&logo=appveyor"></a>
+  <img src="https://komarev.com/ghpvc/?username=Noureldin2303&label=Profile%20views&color=6611e9&style=flat" alt="Noureldin2303" />
 </p>
 <p align='center'>
 <img src="https://octodex.github.com/images/skatetocat.png" width="250px"/>
