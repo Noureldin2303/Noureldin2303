@@ -16,24 +16,21 @@
   <a href="https://www.linkedin.com/in/noureldin-farag-112653217/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:noureldinfarag4@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ#2022?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/discord-8746FF.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
 </p>
 <br>
 
-## 🛠  Technologies and tools
+##  🥷 Technologies stack
 
 
 <a name="learning-now"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,julia,go,haskell,git,bash,vim,linux,dart,flutter,swift,kotlin,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,julia,figma,blender,go,git,bash,vim,linux,dart,flutter,swift,php,laravel,mysql)](https://skillicons.dev)
 
 <br>
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,expressjs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,expressjs,firebase,threejs,)](https://skillicons.dev)
 
 
 ## 👾  What I am interested in learning at some point
