@@ -11,12 +11,13 @@
 <img src="https://octodex.github.com/images/skatetocat.png" width="250px"/>
 </p>
 
-<p align='center'>
-  <a href="https://twitter.com/noureldin_farag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/noureldin-farag-112653217/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:noureldinfarag4@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ#2022?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/discord-8746FF.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+<div class="links-container" align="center">
+<a href="https://www.linkedin.com/in/noureldin-farag-112653217/" class="linkedin"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" width="40px"/></a>&nbsp;&nbsp;
+<a href="mailto:noureldinfarag4@gmail.com?subject=Please be a job offer 🙃" class="gmail" ><img src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="40px"/></a>&nbsp;&nbsp;
+<a href="ꈤꂦꀎꋪꍟ꒒ꀸꀤꈤ#2022?subject=Olá%20Stefany" class="discord"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40px"/></a>
+</div>
+
 <br>
 
 ##  🥷 Technologies stack
@@ -24,7 +25,7 @@
 
 <a name="learning-now"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,julia,figma,blender,go,git,bash,vim,linux,dart,flutter,swift,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,julia,figma,blender,go,git,bash,vim,linux,dart,flutter,swift,php,laravel,mysql)](https://skillicons.dev)
 
 <br>
 <a name="learning-next"></a>
@@ -46,9 +47,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noureldin2303&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ![Noureldin Farag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noureldin2303&show_icons=true&locale=en&theme=github_dark&hide_border=true)
-
- 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
