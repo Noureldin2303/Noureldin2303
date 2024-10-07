@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi++There!+👋;I'm+Noureldin+Farag+👨‍💻;+I'm+a+full-stack+developer;Nice+to+meet+you!&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi++There!+👋;I'm+Noureldin+Farag+👨‍💻;+I'm+a+software+engineer;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Noureldin2303&label=Profile%20views&color=6611e9&style=flat" alt="Noureldin2303" />
 </p>
 <p align='center'>
-<img src="https://octodex.github.com/images/skatetocat.png" width="250px"/>
+<img src="https://octodex.github.com/images/spidertocat.png" width="250px"/>
 </p>
 
 
@@ -25,18 +25,18 @@
 
 <a name="learning-now"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,julia,figma,blender,go,git,bash,vim,linux,dart,flutter,swift,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,nodejs,expressjs,nestjs,mongodb,firebase,figma,blender,go,git,bash,vim,linux,swift,php,laravel,mysql)](https://skillicons.dev)
 
 <br>
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,expressjs,firebase,threejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,spring,threejs,docker,kubernetes)](https://skillicons.dev)
 
 
 ## 👾  What I am interested in learning at some point
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,graphql,sass,tailwind,gradle,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,graphql,tailwind,gradle)](https://skillicons.dev)
 
 
 
